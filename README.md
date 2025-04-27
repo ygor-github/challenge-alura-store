@@ -66,7 +66,7 @@ A análise visual dos dados permitiu identificar tendências e comparar o desemp
 *   **Insight:** Embora as avaliações sejam relativamente próximas, a **Loja 4** figura na penúltima posição, indicando uma satisfação ligeiramente inferior em comparação com as lojas líderes.
 
     ![Dataset Médias por Loja](images/dataset_avaliacoes_lojas.jpg)
-    ![Avaliações Médias por Loja](images/dataset_avaliacoes_lojas.jpg)
+    ![Avaliações Médias por Loja](images/media_avaliacoes_lojas.jpg)
 
 **3. Custo Médio do Frete por Loja:**
 *   O gráfico de barras verticais mostra o valor médio do frete cobrado por cada loja.
