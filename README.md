@@ -36,7 +36,7 @@ Com base nessas métricas, foi possível determinar qual loja apresenta o desemp
 
 O projeto está organizado da seguinte forma:
 
-*   `base-de-dados-challenge-1`: Em esta pasta estao os arquivos csv com as datas das lojas. Mas no notebook usaremos os link diretos ao repositorio base no github.
+*   `base-de-dados-challenge-1`: Nesta pasta estão os arquivos CSV com os dados das lojas, mas no notebook utilizaremos os links diretos para o repositório base no GitHub.
 *   `README.md`: Este arquivo, contendo o relatório final da análise e as instruções.
 *   `AluraStoreBr.ipynb`: Notebook Jupyter contendo todo o processo de análise de dados, desde a importação e limpeza até a geração dos gráficos e cálculos das métricas.
 *   `imagens/`: Pasta contendo as capturas de tela dos gráficos gerados no notebook, utilizadas para ilustrar este relatório.
